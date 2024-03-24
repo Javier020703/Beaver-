@@ -241,7 +241,7 @@ nav{
 }
 .sub-menu-activo{
     left: 330px;
-    transition: 1s;
+    transition: .5s;
 }
 .sub-menu-title{
     background-color: var(--cons-yellow);
