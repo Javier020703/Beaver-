@@ -283,7 +283,7 @@ aside.menu.activo {
     font-weight: bold;
     border-left: 5px solid var(--cons-yellow);
 }
-.close-button{
+.close-button-aside{
     width: 30px;
     height: 30px;
     background-color: var(--white);
@@ -292,7 +292,7 @@ aside.menu.activo {
     justify-content: center;
     align-items: center;
 }
-.close-button:hover{
+.close-button-aside:hover{
     cursor: pointer;
 }
 .category:hover{
